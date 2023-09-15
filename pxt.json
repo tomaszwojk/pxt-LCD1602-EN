@@ -1,0 +1,15 @@
+{
+    "name": "LCD1602",
+    "version": "0.1.0",
+    "description": "Microbit expansion package for LCD1602",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+        "_locales/en/lcd1602-strings.json"
+    ],
+    "public": true
+}

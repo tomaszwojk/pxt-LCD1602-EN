@@ -1,0 +1,17 @@
+{
+    "lcd1602|block": "LCD1602",
+    "lcd1602.setAddress|block": "Set I2C address %myAddr",
+    "lcd1602.setAddress2|block": "Set Numeric I2C Address %myAddr",
+    "lcd1602.setAddress3|block": "Auto Set I2C Address",
+    "lcd1602.putString|block": "Show String %s|x:%x|y:%y",
+    "lcd1602.putNumber|block": "Show Number %n|x:%x|y:%y",
+    "lcd1602.on_off.on|block":"on",
+    "lcd1602.on_off.off|block":"off",
+    "lcd1602.visibled.visible|block":"visible",
+    "lcd1602.visibled.invisible|block":"invisible",
+    "lcd1602.set_LCD_Show|block": "Set String %show",
+    "lcd1602.set_backlight|block": "Set Backlight %on",
+    "lcd1602.clear|block": "Clear Screen",
+    "lcd1602.shl|block": "Shift Left",
+    "lcd1602.shr|block": "Shift Right"
+}
